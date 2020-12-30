@@ -22,15 +22,14 @@
 <hr>
 
 <p align=center>
-  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+  <a href="#">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Akshi149&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true">
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshi149&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&layout=compact" />
+  <a href="#">
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshi149&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=5&layout=shrink" />
   </a>
 </p>
 
-<hr>
 <!--
 **Akshi149/Akshi149** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
