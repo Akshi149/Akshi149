@@ -7,7 +7,7 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Akshita Agarwal, Undergraduate 2nd Year at IIT Roorkee 
+  Hi, I'm Akshita Agarwal, Undergraduate 3rd Year at IIT Roorkee 
   <br>
   <br>
   🔬 I'm currently pursuing Chemical Engineering from Indian Institute of Technology Roorkee
