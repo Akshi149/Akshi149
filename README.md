@@ -21,7 +21,7 @@
 
 <hr>
 
-<p align=center>
+<!--<p align=center>
   <a href="#">
     <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=Akshi149&show_icons=true&theme=blue-green&count_private=true&include_all_commits=true">
   </a>
